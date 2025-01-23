@@ -1,1 +1,2 @@
-hi\nhow r u
+hi
+:how r u
